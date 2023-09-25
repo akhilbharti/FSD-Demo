@@ -4,11 +4,11 @@ This repository contains the complete source code and resources for the blog pos
 
 ## Blog Post
 
-Read the full blog post on Medium: [https://medium.com/@akhbharti/mastering-feature-slice-methodology-in-react-typescript-a-practical-guide-e37e336e29e1](#)
+Read the full blog post on Medium: [https://medium.com/@akhbharti/mastering-feature-slice-methodology-in-react-typescript-a-practical-guide-e37e336e29e1]
 
 ## Contents
 
-- [Project Setup](#project-setup)
+- [Project Structure](#project-structure)
 - [Structuring the Application](#structuring-the-application)
 - [References](#references)
 
@@ -24,7 +24,7 @@ Follow the step-by-step instructions in the blog post to understand and implemen
 ## Project Structure
 
 The code follows a structured approach as discussed in the blog post:
-
+```
 my-app/
 │
 ├── src/
@@ -60,7 +60,7 @@ my-app/
 ├── tsconfig.json
 ├── README.md
 └── ...
-
+```
 ## Structuring the Application
 
 One of the core principles of Feature Slice Methodology is the structured organization of your application into self-contained feature slices. Each feature slice represents a specific functionality or module within your project. This approach enhances modularity, scalability, and maintainability.
