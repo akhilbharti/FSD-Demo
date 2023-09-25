@@ -4,7 +4,7 @@ This repository contains the complete source code and resources for the blog pos
 
 ## Blog Post
 
-Read the full blog post on Medium: [https://medium.com/@akhbharti/mastering-feature-slice-methodology-in-react-typescript-a-practical-guide-e37e336e29e1]
+Read the full blog post on Medium: https://medium.com/@akhbharti/mastering-feature-slice-methodology-in-react-typescript-a-practical-guide-e37e336e29e1
 
 ## Contents
 
@@ -82,5 +82,4 @@ To manage the application's state, we employ Redux, a robust state management li
 The overall project structure follows the Feature Slice Methodology's principles of modularity and separation of concerns. This ensures that as the application grows, it remains organized, scalable, and easy to collaborate on.
 
 ## References
-- Feature-Sliced Design
-https://feature-sliced.design]
+- Feature-Sliced Design https://feature-sliced.design
